@@ -4,5 +4,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-color: rgb(28, 227, 10);
+    background-color: rgb(10, 191, 227);
+}
+#Subtitulo{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
