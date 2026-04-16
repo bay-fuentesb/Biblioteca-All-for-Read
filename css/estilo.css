@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Le+Cercle:wght@400&display=swap');
+
 body {
     background-color: rgb(10, 191, 227);
     font-family: Arial, Helvetica, sans-serif;
@@ -25,8 +27,9 @@ body {
 }
 
 #Titulo {
-    color: #fff;
+    color: rgb(169, 2, 219);
     font-size: 40px;
+    font-family: 'Le Cercle', serif;
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
